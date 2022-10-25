@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overseas (FTT, Western Union, Visa Dire_0a4974</name>
+   <tag></tag>
+   <elementGuidId>97768fe9-d6f5-4afd-9930-93e008e9d85d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div/div/div/div[2]/div[2]/div[3]/div/div/ul/li[4]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d81ef9fa-f2d9-4aef-b225-d33e02a104ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Overseas (FTT, Western Union, Visa Direct, Maybank Overseas Transfer)</value>
+      <webElementGuid>119fa17b-368c-476c-9439-ad7d1d558016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[1]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[2]/div[@class=&quot;Transactions---backgroundTile---JsrKN&quot;]/div[@class=&quot;Transactions---paddingContent---2JL3p&quot;]/div[@class=&quot;row PayFromToContainer---payFromToContainer---1zc5G&quot;]/div[@class=&quot;col-xs-12 col-lg-8 col-md-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;hidden-xs col-sm-10 col-xs-12 PayFromToContainer---dropdownHolder---1fWw2&quot;]/div[@class=&quot;RenderDesktopDropdown---container---1CES2 PayFromToContainer---containerClass---G39LL&quot;]/div[@class=&quot;dropdown open btn-group&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[4]/a[1]/div[1]</value>
+      <webElementGuid>2be181b5-cb10-4a61-908c-2d78ac221433</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollToTransactions']/div/div/div[3]/div/div/div[2]/div/div/div/div[2]/div[2]/div[3]/div/div/ul/li[4]/a/div</value>
+      <webElementGuid>c80b1882-e305-4b89-805b-9e225929b971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='( Maybank and other banks )'])[2]/following::div[1]</value>
+      <webElementGuid>2250dbce-fd5b-44f4-a5cb-858d3db62a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[4]/a/div</value>
+      <webElementGuid>3c73995f-4f6d-46d2-a12c-90e7e60f286a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Overseas (FTT, Western Union, Visa Direct, Maybank Overseas Transfer)' or . = 'Overseas (FTT, Western Union, Visa Direct, Maybank Overseas Transfer)')]</value>
+      <webElementGuid>6edcd7ce-017e-4310-97ee-47e56a9ef4e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

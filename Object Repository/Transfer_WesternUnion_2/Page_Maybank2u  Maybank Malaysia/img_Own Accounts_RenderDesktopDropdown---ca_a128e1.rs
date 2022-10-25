@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Own Accounts_RenderDesktopDropdown---ca_a128e1</name>
+   <tag></tag>
+   <elementGuidId>f234d0dd-7d8d-4146-898d-b152e633107a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#payto_dropdown > span.RenderDesktopDropdown---clsTitle---Eigoz > img.RenderDesktopDropdown---caret---1M9rq</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='payto_dropdown']/span/img)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>13ec5c32-403c-4665-885c-26891f1a0642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/icons/open_dropdown.svg</value>
+      <webElementGuid>1c006116-15c2-487c-aeaf-fe0fa4ef5fe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>RenderDesktopDropdown---caret---1M9rq</value>
+      <webElementGuid>90f9540e-9f86-4959-b54f-d5e24a8f883e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollToTransactions&quot;)/div[@class=&quot;Transactions---container---3sqaa&quot;]/div[1]/div[@class=&quot;Transactions---withSide---2taIP container-fluid Transactions---summaryContainer---1rNvj&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[2]/div[@class=&quot;Transactions---backgroundTile---JsrKN&quot;]/div[@class=&quot;Transactions---paddingContent---2JL3p&quot;]/div[@class=&quot;row PayFromToContainer---payFromToContainer---1zc5G&quot;]/div[@class=&quot;col-xs-12 col-lg-8 col-md-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;hidden-xs col-sm-10 col-xs-12 PayFromToContainer---dropdownHolder---1fWw2&quot;]/div[@class=&quot;RenderDesktopDropdown---container---1CES2 PayFromToContainer---containerClass---G39LL&quot;]/div[@class=&quot;dropdown btn-group&quot;]/button[@id=&quot;payto_dropdown&quot;]/span[@class=&quot;RenderDesktopDropdown---clsTitle---Eigoz&quot;]/img[@class=&quot;RenderDesktopDropdown---caret---1M9rq&quot;]</value>
+      <webElementGuid>21623f41-d3d3-46a8-8b2c-e6ee94e1eee9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='payto_dropdown']/span/img)[2]</value>
+      <webElementGuid>ec07377d-7fde-442f-86d6-bc44031833e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/button/span/img</value>
+      <webElementGuid>1fbeaf50-c075-4ca8-8f2a-a69e50fbb6ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/icons/open_dropdown.svg']</value>
+      <webElementGuid>c443538b-0086-4c5f-91d9-5998950dff3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

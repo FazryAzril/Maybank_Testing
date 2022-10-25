@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Indonesia</name>
+   <tag></tag>
+   <elementGuidId>1defdfef-0e0f-4078-b06d-d1f7304e51a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1']/div[2]/div/div[10]/div/div[2]/div/div/div/ul/li/a/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3cd9f5fb-fb73-474a-bf17-4e6f70fd7520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>RenderSearchableDropdown---Highlighted---3sdxd</value>
+      <webElementGuid>bcff3a7c-b551-4980-8a81-f3ff593b3bb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Indonesia</value>
+      <webElementGuid>36ce2bc4-cf1e-4667-a879-c7f27f50e237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1&quot;)/div[@class=&quot;panel-collapse collapse in&quot;]/div[@class=&quot;panel-body&quot;]/div[10]/div[@class=&quot;row TransferModal---inputPair---2v4pK&quot;]/div[@class=&quot;col-sm-7&quot;]/div[@class=&quot;RenderSearchableDropdown---container---1MNpu TransferModal---containerClass---3Gy8x&quot;]/div[@class=&quot;RenderSearchableDropdown---dropdownHolder---3G3aH&quot;]/div[@class=&quot;clearfix&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[1]/a[@class=&quot;RenderSearchableDropdown---withLinBreak---1iu7K&quot;]/div[1]/div[1]/span[@class=&quot;RenderSearchableDropdown---Highlighted---3sdxd&quot;]</value>
+      <webElementGuid>7425e455-744e-400b-bcbf-98b0d5aada3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1']/div[2]/div/div[10]/div/div[2]/div/div/div/ul/li/a/div/div/span[2]</value>
+      <webElementGuid>78d64c59-1cab-4112-86eb-c7d999c8d84b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[2]/following::span[2]</value>
+      <webElementGuid>816b4442-adda-4c1f-8438-d7fe3c836945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::span[2]</value>
+      <webElementGuid>b2b701bf-0c93-466d-a562-7c292aaa9730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Type (Optional)'])[1]/preceding::span[2]</value>
+      <webElementGuid>090d36f7-07f3-494f-80db-3b5eb4a0add1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[7]/preceding::span[2]</value>
+      <webElementGuid>f45796c7-ed7d-48cb-9983-39af55752f1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/div/div/div/ul/li/a/div/div/span[2]</value>
+      <webElementGuid>90b7c8d0-9c35-4314-b472-6bce94fd898f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Indonesia' or . = 'Indonesia')]</value>
+      <webElementGuid>0b7eca87-5eb2-427d-ad05-cab28f959b4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
